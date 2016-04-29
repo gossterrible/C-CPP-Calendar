@@ -1,5 +1,5 @@
 # C-CPP-Calendar
-C-CPP Calendar app is a easy to use app to do all the functions that a calendar.
+C-CPP Calendar app is a easy to use app to do all the functions of a calendar.
 
 * The app can display day of any date in the Gregorian calendar (1753 - 9999).
 * It can be used to display calendar of a month of a year. 
